@@ -45,7 +45,7 @@
         <context.path>/</context.path>
         <port>8080</port>
 
-        <!-- config node and npm -->
+        <!-- config node and npm version -->
         <node.version>v8.9.3</node.version>
         <npm.version>6.1.0</npm.version>
     </properties>
